@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HiLo</string>
+    <string name="guess_btn">Guess</string>
+    <string name="reset_btn">Reset</string>
+    <string name="enter_guess">Enter your guess</string>
+    <string name="action_about">About</string>
+    <string name="about_dialog">A random number between 1 and 1000 will be generated at the start of each new game. It is your job to guess it, you have a maximum of 10 guesses. To reveal the answer hold on the reset button. \n </string>
+    <string name="author" translatable="false">Jacob Wagner (wagn0070)</string>
+    <string name="guess_error">Please enter a number between 1 and 1000</string>
+    <string name="error">Something went wrong, please reset the game</string>
+    <string name="high">Too high</string>
+    <string name="low">Too low</string>
+    <string name="fail">Bad luck, the number was </string>
+    <string name="fail2"> press reset to play again</string>
+    <string name="excellent">Excellent! Guesses:</string>
+    <string name="superior">Superior skill! Guesses:</string>
+    <string name="new_game">New game, new number, GO!</string>
+    <string name="hint">The number is: </string>
+</resources>
