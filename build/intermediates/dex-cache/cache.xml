@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b6e58f4426d9148da65861be752cc5680139b65c">
+        sha1="a1de0c710403f94d7149f23f3820f76a00b9e39b">
         <dex dex="/Users/jakewagnr/Documents/code/android/HiLo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c9483da3bde3b58fb63854233552d530b8a72050/classes.dex" />
     </item>
 

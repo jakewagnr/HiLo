@@ -91,8 +91,7 @@ public class MainActivity extends Activity {
             guessInt = Integer.parseInt(guess);
             guessCount++;
             guessValid();
-        }else{
-            Toast.makeText(this, R.string.error, Toast.LENGTH_LONG).show();
+
         }
 
     }
